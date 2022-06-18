@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6e583e3cd770fe4981d6a3c4eda426c, type: 3}
+  m_Name: NormalPlanet
+  m_EditorClassIdentifier: 
+  gameObjectList:
+  - {fileID: 4301653980013357656, guid: 4bfe73f0b2f76ca4283e65120bb94608, type: 3}
+  - {fileID: 4301653980013357656, guid: 4bfe73f0b2f76ca4283e65120bb94608, type: 3}
+  - {fileID: 5805886319473509993, guid: 779b476f1545a77428b75bec6de49789, type: 3}
+  - {fileID: 8596566770135657515, guid: 470f10fef962fc24bbb5bbdb418c82d2, type: 3}
+  - {fileID: 4224839676765552297, guid: bde043080b26da744bfc111fd2889116, type: 3}
